@@ -1,4 +1,6 @@
-### Hi there 👋
+![image](https://drive.google.com/uc?id=1aYZ5L-WJFrok2BkOLrnnEvs05aJqt_pH)
+
+## I am a software developer
 
 <!--
 **StephanieMfon/StephanieMfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
