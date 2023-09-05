@@ -5,7 +5,7 @@ I'm a Nigerian software engineer based in Nigeria. I have hands-on experience in
 - 📫How to reach me:  📞+234916326103
 - [okpomfonstephanie@gmail.com](okpomfonstephanie@gmail.com)
 <p align="center">
-<img width="48%" height="30%"
+<img width="48%" height="300em"
    src="https://github-readme-stats.vercel.app/api?username=stephaniemfon&show_icons=true&theme=dracula&include_all_commits=true" 
 />
 
