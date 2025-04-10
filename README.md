@@ -1,7 +1,7 @@
 ![image](https://drive.google.com/uc?id=1aYZ5L-WJFrok2BkOLrnnEvs05aJqt_pH)
 
 ## I am a software developer
-I'm a Nigerian software engineer based in Switzerland. I have hands-on experience in all levels of the software life cycle. I enjoy learning new langauges and frame works like Nodejs and Nestjs, I love building scalable applications that solve real world problems.
+I work on software projects that makes the lives of refugees better at the United Nations High Commissioner for Refugees. I have hands-on experience in all levels of the software life cycle. In my free time, I learn and play with software security concepts using TryHackMe.
 - 📫How to reach me:  📞+234916326103
 - [okpomfonstephanie@gmail.com](okpomfonstephanie@gmail.com)
 <p align="center">
