@@ -16,7 +16,7 @@ I work on software projects that makes the lives of refugees better at the Unite
 - 🌱 I’m currently learning Software security with TryHackMe
 - 👯 I’m looking to collaborate on software projects that add meaningful value to humanity could be in health, education or humanitarian sector.
 - 🤔 I’m looking for help with learning to network more with other developers
-- 💬 Ask me about Anything, alawys open to chat!
+- 💬 Ask me about anything, alawys open to chat!
 - 📫 How to reach me: 📞+41779132368 , [okpomfonstephanie@gmail.com](okpomfonstephanie@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play as a lifestyle!.
