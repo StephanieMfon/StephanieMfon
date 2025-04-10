@@ -11,10 +11,6 @@ I work on software projects that makes the lives of refugees better at the Unite
 
 <img width="48%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniemfon&layout=donut&theme=dracula"/>
 </p>
-<!--
-**StephanieMfon/StephanieMfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on using Vertex AI for better and easier searches on Google's ecosystem as opposed to solr
 - 🌱 I’m currently learning Software security with TryHackMe
@@ -24,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 📞+41779132368 , [okpomfonstephanie@gmail.com](okpomfonstephanie@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play as a lifestyle!.
--->
+
